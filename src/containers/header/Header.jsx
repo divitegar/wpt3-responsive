@@ -7,6 +7,7 @@ const Header = () => {
         <h1 className="gradient__text">
           Let’s Build Something amazing with GPT-3 OpenAI
         </h1>
+        <div></div>
       </div>
     </div>
   );
